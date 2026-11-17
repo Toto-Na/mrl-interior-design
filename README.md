@@ -1,4 +1,4 @@
-# MR L PRODUCTION — Architecture / Interiors / Landscapes
+# TA PRODUCTION — Architecture / Interiors / Landscapes
 
 A pixel-perfect React (Next.js 16 + TypeScript) recreation of an architectural studio homepage, expanded into a full 5-page SPA.
 
