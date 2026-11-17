@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
+  <title id="title">التصميم الداخلي للمنازل</title>
+  <desc id="desc">شعار لموقع متخصص في التصميم الداخلي للمنازل، يتضمن منزلًا وغرفة معيشة بألوان أخضر زيتوني وذهبي هادئ.</desc>
+  <defs>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#64783B"/><stop offset="1" stop-color="#263A20"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B69A5A"/><stop offset=".5" stop-color="#E1C98B"/><stop offset="1" stop-color="#A88948"/></linearGradient>
+  </defs>
+  <rect width="1200" height="1000" fill="#fff"/>
+  <!-- house silhouette -->
+  <path d="M190 440 L600 105 L1010 440" fill="none" stroke="url(#green)" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 390 V690 Q300 720 330 720 H870 Q900 720 900 690 V390" fill="#F7F5EE" stroke="#64783B" stroke-width="13"/>
+  <path d="M455 720 V545 Q455 510 490 510 H710 Q745 510 745 545 V720" fill="#E8E1D1" stroke="#B69A5A" stroke-width="9"/>
+  <!-- window -->
+  <rect x="535" y="235" width="130" height="130" rx="18" fill="#64783B"/>
+  <path d="M600 245 V355 M545 300 H655" stroke="#F8F6EF" stroke-width="12"/>
+  <!-- wall art -->
+  <rect x="365" y="435" width="112" height="112" fill="#fff" stroke="#B69A5A" stroke-width="8"/>
+  <path d="M390 520 Q420 460 455 465 M420 495 Q410 465 400 460 M430 490 Q450 480 458 465" fill="none" stroke="#64783B" stroke-width="7" stroke-linecap="round"/>
+  <!-- sofa -->
+  <rect x="390" y="565" width="420" height="112" rx="34" fill="url(#green)"/>
+  <rect x="365" y="610" width="65" height="92" rx="24" fill="#4D6333"/>
+  <rect x="770" y="610" width="65" height="92" rx="24" fill="#4D6333"/>
+  <path d="M420 580 Q480 555 535 590 L535 635 H420 Z M555 590 Q625 555 690 585 V635 H555 Z" fill="#E8DDC7"/>
+  <path d="M440 680 V720 M760 680 V720" stroke="#765B3A" stroke-width="15" stroke-linecap="round"/>
+  <!-- coffee table -->
+  <ellipse cx="600" cy="735" rx="190" ry="28" fill="#D8C49B"/>
+  <path d="M465 742 L445 800 M735 742 L755 800" stroke="#8A6B43" stroke-width="13" stroke-linecap="round"/>
+  <path d="M565 720 Q600 690 635 720 Q625 750 600 752 Q575 750 565 720" fill="#64783B"/>
+  <path d="M600 720 V685 M585 705 Q560 680 570 665 M615 705 Q640 680 630 665" fill="none" stroke="#64783B" stroke-width="8" stroke-linecap="round"/>
+  <!-- floor lamp -->
+  <path d="M820 455 Q900 390 920 500 V690" fill="none" stroke="#5C5A4B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M865 465 L955 465 L935 405 H885 Z" fill="#E8D6AF" stroke="#B69A5A" stroke-width="7"/>
+  <path d="M885 700 H955" stroke="#5C5A4B" stroke-width="12" stroke-linecap="round"/>
+  <!-- floor swoosh -->
+  <path d="M235 760 Q600 875 970 755" fill="none" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+  <text x="600" y="875" text-anchor="middle" direction="rtl" font-family="Arial, Tahoma, sans-serif" font-size="66" font-weight="700" fill="#314526">التصميم الداخلي للمنازل</text>
+  <path d="M250 925 H390 M810 925 H950" stroke="#B69A5A" stroke-width="4"/>
+  <text x="600" y="940" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" letter-spacing="7" fill="#64783B">HOME INTERIOR DESIGN</text>
+</svg>
