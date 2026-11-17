@@ -12,7 +12,7 @@ The sandbox auto-runs `bun run dev` on port 3000. The dev server is started auto
 - **Styling**: Tailwind CSS 4 + custom CSS (`src/app/arch-studio.css`)
 - **Icons**: lucide-react
 - **Fonts**: Cormorant Garamond (serif headlines) + Inter (sans body) via `next/font/google`
-## Screenshots
+## Home screen
 ![1](./1.png)
 ## project screen
 ![2](./2.png)
