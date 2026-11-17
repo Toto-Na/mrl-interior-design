@@ -13,11 +13,11 @@ The sandbox auto-runs `bun run dev` on port 3000. The dev server is started auto
 - **Icons**: lucide-react
 - **Fonts**: Cormorant Garamond (serif headlines) + Inter (sans body) via `next/font/google`
 ## Screenshots
-![Homepage](./screenshots/1.png)
+![1](./1.png)
 ## project screen
-![Projects](./screenshots/2.png)
+![2](./2.png)
 ## favorte screen
-![Favorte](./screenshots/3.png)
+![3](./3.png)
 ## Project Structure
 
 ```
